@@ -10,16 +10,17 @@
 	text-align:center;
 }
 
-.container{
+/* .container{
  display:flex;
 	justify-content:center;
-}
+} */
 
 .latest-news-section{
 	background-color:white;
 	width:30%;
 	padding:20px;
 	border-radius:10px;
+	display:flex;
 }
 
 .pictorial-news-section{
